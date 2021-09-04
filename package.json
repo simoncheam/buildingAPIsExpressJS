@@ -1,0 +1,27 @@
+{
+  "name": "buildingapiswithexpressjs",
+  "version": "1.0.0",
+  "description": "Building APIs with Express Lab",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoncheam/buildingAPIsExpressJS.git"
+  },
+  "author": "https://github.com/simoncheam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoncheam/buildingAPIsExpressJS/issues"
+  },
+  "homepage": "https://github.com/simoncheam/buildingAPIsExpressJS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "sweetalert2": "^11.1.4"
+  }
+}
